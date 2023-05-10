@@ -1,0 +1,6 @@
+<?php
+var_dump();
+
+var_dump(hash('sha512', "DHIEGO BALTHAZAR") === "6422b87a35663d11ca965b664c6a1bc39c863525abb4d012cc2255c9da7cf92c1996a41da208512553aafffd77610acb4d8b3aba81d75960dcca32262f0f4a0");
+
+var_dump(strlen("64292b87a35663d11ca965b664c6a1bc39c863525abb4d012cc2255c9da7cf92c1996a41da208512553aafffd77610acb4d8b3aba81d75960dcca32262f0f4a0"));
